@@ -9,3 +9,5 @@ point = 64  diameter = 10
 ![mandala2](https://github.com/kkkkoyo/mandala/blob/gif/gif/mandala2.gif)
   
 座標変換　　
+
+processing 3.2.3
