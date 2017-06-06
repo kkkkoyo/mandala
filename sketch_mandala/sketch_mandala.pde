@@ -1,13 +1,13 @@
   void setup(){
   frameRate(60);
-  size(700, 700);
+  size(600, 400);
   background(100);
 }
 void draw(){
   //プロットの数
-  int point = 8;
+  int point = 16;
   //サイズ
-  float diameter = 5;
+  float diameter = 3;
 
   if(mousePressed){
 
